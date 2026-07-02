@@ -1,0 +1,9 @@
+AdmissionLens - Data Analysis Plan
+
+1. Data Cleaning: Process raw application records, remove PII (Personally Identifiable Information).
+2. Exploratory Data Analysis:
+   - Identify top applicant countries.
+   - Calculate growth rates for specific regions (e.g., Algeria).
+   - Analyze rejection patterns.
+3. Visualization: Create dashboards to identify peak application months and program competitiveness.
+4. Goal: Provide actionable insights to improve university application efficiency and reduce documentation errors.
